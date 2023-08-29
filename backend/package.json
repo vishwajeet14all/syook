@@ -1,0 +1,17 @@
+{
+  "name": "syookbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vishwajeet",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "mongoose": "^7.4.5",
+    "socket.io": "^4.7.2",
+    "socket.io-client": "^4.7.2"
+  }
+}
