@@ -41,9 +41,6 @@ The project is divided into the following components:
     cd ..
     cd frontend
     npm start
-## Deployment
-The frontend app has been deployed and can be accessed at 
-https://timeseriesfrontend.onrender.com.
 
 ## How to Use
 1.Open your web browser and visit the deployed frontend app.
@@ -53,4 +50,4 @@ https://timeseriesfrontend.onrender.com.
 3.You can see the total emitted, successful, and error counts, as well as the success rate for data transmission and decoding.
 
 ## Contact
-If you have any questions or need further assistance, feel free to contact me at md.saleem516@gmail.com.
+If you have any questions or need further assistance, feel free to contact me at rjvishwajeet007@gmail.com.
